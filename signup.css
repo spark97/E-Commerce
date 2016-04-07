@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.main{
+width:100%;
+}
+
+
+
+.form{
+float:right;
+width:75%;
+margin-right:40px;
+}
+
+.form fieldset{
+border-radius:30px;	
+}
+
+
+.form td{
+height:16.67%;
+width:50%;
+}
+
+.form th{
+font-size:28px;
+}
+
+.form td input{
+width:70%;
+}
+
+
+footer{
+	font-style: normal;
+	font-weight: bold;
+	font-size: small;
+	text-align: center;
+	color: #4B4949;
+	height: 50px;
+	width: 100%;
+	margin-top:40px;
+	
+}

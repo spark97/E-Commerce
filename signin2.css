@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+.info{
+width:600px;
+height:50px;
+background-color:Gainsboro;
+margin-bottom:5px;
+margin-right:auto;
+margin-left:auto;
+border-radius:25px;
+}
+
+.info p{
+font-family:Comic Sans MS;
+font-size:18px;
+text-align:center;
+padding-top:10;
+color:#D00;
+}
+
+
+.signintable{
+	background-color: #DEB887;
+	border-radius: 70px;
+	-webkit-box-shadow: 5px 5px 5px 0px #C9C9C9;
+	box-shadow: 5px 5px 5px 0px #C9C9C9;
+	
+}
+
+table{
+border-radius:30px;
+}
+
+table img{
+border-radius:100px;
+margin-top:30px;
+}
+
+
+footer{
+	font-style: normal;
+	font-weight: bold;
+	font-size: small;
+	text-align: center;
+	color: #4B4949;
+	
+}

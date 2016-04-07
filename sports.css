@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.header1{
+background-color:#3F3C3C;
+color:#FFFFFF;
+font-weight:bolder;
+
+padding:0px;
+height:40px;
+width:100%;
+}
+
+.main{
+width:68%;
+background-color:#F4EFEF;
+margin-top:10px;
+margin-left:50px;
+}
+
+
+.headertitle{
+float:left;
+width:70%;
+padding-top:10px;
+padding-left:10px;
+}
+
+.itemlist{
+background-color:#87CEFA;
+width:95%;
+margin-top:15px;
+margin-right:auto;
+margin-left:auto;
+}
+
+.itemlist table{
+padding:10px;
+}
+
+
+.itemlist table table{
+background-color:white;
+padding:5px;
+}

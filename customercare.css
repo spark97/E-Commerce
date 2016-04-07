@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main{
+width:100%;
+
+}
+
+.maininfo{
+float:left;
+background-color:#F4EFEF;
+width:33%;
+height:220px;
+}
+
+.maininfo p{
+	text-align: center;
+	background-color: Gainsboro;
+	display: block;
+	margin: 20px;
+	padding: 20px;
+	height: 140px;
+	border-radius: 30px;
+	-webkit-box-shadow: 3px 0px 3px #777777;
+	box-shadow: 3px 0px 3px #777777;
+}

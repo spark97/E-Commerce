@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.leftsidebar{
+	height:400px;
+	width: 18%;
+	float:left;
+}
+
+
+.leftsidebar ul{
+list-style-type:none;
+height:100%;
+padding:0;
+margin:0;
+}
+
+
+.leftsidebar ul li{
+	background-image: -webkit-linear-gradient(270deg,rgba(86,86,86,1.00) 22.80%,rgba(108,106,106,1.00) 53.37%,rgba(132,132,132,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(86,86,86,1.00) 22.80%,rgba(108,106,106,1.00) 53.37%,rgba(132,132,132,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(86,86,86,1.00) 22.80%,rgba(108,106,106,1.00) 53.37%,rgba(132,132,132,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(86,86,86,1.00) 22.80%,rgba(108,106,106,1.00) 53.37%,rgba(132,132,132,1.00) 100%);
+	height:25%;
+	width:100%;
+}
+
+.leftsidebar ul li a{
+	text-decoration: none;
+	font-size: x-large;
+	text-align: center;
+	font-family:Comic Sans MS;
+	display: block;
+	height: 100%;
+	color: white;
+	width: 100%;
+	line-height:100px;
+	
+}
+
+.leftsidebar ul li a:hover{
+	font-weight: bolder;
+	background-image: -webkit-linear-gradient(270deg,rgba(0,206,209,1.00) 0%,rgba(0,156,208,1.00) 90.16%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,206,209,1.00) 0%,rgba(0,156,208,1.00) 90.16%);
+	background-image: -o-linear-gradient(270deg,rgba(0,206,209,1.00) 0%,rgba(0,156,208,1.00) 90.16%);
+	background-image: linear-gradient(180deg,rgba(0,206,209,1.00) 0%,rgba(0,156,208,1.00) 90.16%);
+	bottom: 100%;
+}
+
+

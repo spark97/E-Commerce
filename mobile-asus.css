@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+.main_div{
+width:100%;
+}
+
+.info{
+width:80%;
+background-color:white;
+float:left;
+margin-left:20px;
+height:auto;
+}
+
+.infoname{
+background-image: -webkit-linear-gradient(270deg,rgba(0,206,209,1.00) 0%,rgba(0,156,208,1.00) 90.16%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,206,209,1.00) 0%,rgba(0,156,208,1.00) 90.16%);
+	background-image: -o-linear-gradient(270deg,rgba(0,206,209,1.00) 0%,rgba(0,156,208,1.00) 90.16%);
+	background-image: linear-gradient(180deg,rgba(0,206,209,1.00) 0%,rgba(0,156,208,1.00) 90.16%);
+height:50px;
+padding-top:10px;
+padding-left:10px;
+}
+
+.infoimg{
+	background-color:white;
+	padding:10px;
+float:left;
+width:22%;
+
+}
+
+.productinfo{
+margin-top:10px;
+background-color:white;
+float:left;
+width:76%;
+
+}
+
+.productinfo table td {
+width:100%;
+background-color:#F5F5F5;
+}
+
+.buynow{
+border-radius:12px;
+width:120px;
+height:35px;
+color:#2E2E2E;
+font-family:Comic Sans MS;
+}
+
+footer{
+	font-style: normal;
+	font-weight: bold;
+	font-size: small;
+	text-align: center;
+	color: #4B4949;
+	height: 50px;
+	width: 100%;
+}

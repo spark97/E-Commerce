@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+
+width:75%;
+height:580px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.container table{
+	background-color: Gainsboro;
+	padding: 25px;
+	border-radius: 40px;
+	box-shadow: 5px 5px #9B9B9B;
+}
+
+.name{
+width:75%;
+background-color:white;
+
+}
+
+.email{
+width:75%;
+background-color:white;
+
+}
+
+.contact{
+width:75%;
+background-color:white;
+
+}
+
+.orderid{
+width:75%;
+background-color:white;
+
+}
+
+.address{
+width:75%;
+background-color:white;
+height:150px;
+}
+
+.logoutbutton{
+padding:20px;
+}
+
+.container th{
+font-weight:bolder;
+font-family:Tekton Pro;
+font-size:20px;
+color:#2F2F2F;
+}
+
+.container td{
+font-family:Tekton Pro;
+font-weight:normal;
+font-size:15px;
+padding:20px;
+border-style:groove;
+}
+
+.congratulation{
+border-width:0px;
+color:#8E1B06;
+}
+
+footer{
+	font-style: normal;
+	font-weight: bold;
+	font-size: small;
+	text-align: center;
+	color: #4B4949;
+	height: 50px;
+	width: 100%;
+	margin-top:20px;;
+	
+}
